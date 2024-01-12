@@ -2,7 +2,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-The DML project is an effort to fit ML algorithms in devices with scarce hardware resources, typically like a device with 32 kB EEPROM and 1.6 kB RAM. The project also includes effort to try and find ways to have supervised ML algorithms run in these devices, that would require large datasets, which could not possibly fit in such a small device memory. This particular library, which is still being developed and is a shared library among multiple branches of the DML project, includes some all-purpose functions that are very common in the field of ML.
+The DML project is an effort to fit ML algorithms in devices with scarce hardware resources, typically like a device with 32 kB EEPROM and 1.6 kB RAM. The project also includes effort to try and find ways to have supervised ML algorithms run on these devices, that would require large datasets, which could not possibly fit in such a small device memory. This particular library, which is still being developed and is a shared library among multiple branches of the DML project, includes some all-purpose functions that are very common in the field of ML.
 
 
 ## Features
